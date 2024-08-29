@@ -61,7 +61,7 @@ void setup()
 
 #define BLYNK_TEMPLATE_ID "TMPL3NZUJZ_0x"
 #define BLYNK_TEMPLATE_NAME "Quickstart Template"
-char auth[] = "yZRnGd0VDZrnj0_n1WdHHGrDYpBOF78b";
+char auth[] = "xxxxxxxx";
 
 
 /* WiFi credentials */
